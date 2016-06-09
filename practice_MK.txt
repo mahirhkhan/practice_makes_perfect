@@ -1,4 +1,12 @@
 whoaaaaaaa
 another line
 what what
+<<<<<<< HEAD
 what is going on, will this save after all? who knowwwwws
+=======
+is this thing on?
+is says the working directory is clean
+I shall edit and try again
+>>>>>>> amber/master
+
+whoa what is all that above us????? magic, that's what
